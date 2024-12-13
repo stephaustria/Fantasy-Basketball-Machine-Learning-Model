@@ -1,2 +1,2 @@
 # Fantasy Basketball Machine Learning Model
-Machine Learning Model for Fantasy Basketball Managers
+Custom Machine Learning Model to create a ranking of NBA players based off the league that I am currently in
